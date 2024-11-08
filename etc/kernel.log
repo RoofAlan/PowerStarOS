@@ -1,0 +1,10 @@
+[   0.003378755] Watchdog load finish
+[   0.015804633] Load syscall...
+[   0.028310776] PowerStarOS 0.2a Copyright (C) 2023-2024 Xigua
+[   0.038594146] Check file
+[   0.049287041] File 'shell.sh' exsit
+[   0.059613550] File 'fs.sh' exsit
+[   0.075735167] Memory free: 11690100 K
+[   0.082890108] Starting file check...
+[   0.092432691] Loading shell...
+[   159.005815416] The system will going down NOW!

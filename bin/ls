@@ -1,0 +1,6 @@
+if [ ! -e "$1" ] && [ ! -z "$1" ]; then
+	echo "$1: No such file or directory."
+	exit 1
+else
+	ls --color $@
+fi

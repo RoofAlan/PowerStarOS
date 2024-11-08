@@ -1,0 +1,2 @@
+echo "Show kernel log: "
+SHOW_KLOG
